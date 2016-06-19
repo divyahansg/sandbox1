@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/divyahansg/sandbox/rect"
+  "github.com/divyahansg/sandbox1/rect"
 )
 
 func main() {
