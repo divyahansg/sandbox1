@@ -7,6 +7,6 @@ import (
 
 func main() {
         s := rect.MakeRect()
-        fmt.Println("Rectangle s is: ", s)
+        fmt.Println("Rectangle s ->: ", s)
 }
 
